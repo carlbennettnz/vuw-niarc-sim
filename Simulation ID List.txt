@@ -1,0 +1,23 @@
+Robot
+		ID: OmniRobot_R0
+				Sensor
+						ID: Hokuyo URG Series_S1
+				Joint
+						ID: Joint_J0
+						ID: Joint_J3
+						ID: Joint_J2
+						ID: Joint_J1
+						ID: Joint
+				Actuator
+						ID: Motor_Joint_J0
+						ID: Motor_Joint_J2
+						ID: Motor_Joint_J1
+				Robot Component
+						ID: Body
+						ID: Omni Wheel_O0
+						ID: Omni Wheel_O2
+						ID: Omni Wheel_O1
+						ID: Heading
+
+
+Obstacle
