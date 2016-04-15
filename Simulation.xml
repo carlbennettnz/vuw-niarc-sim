@@ -31,7 +31,7 @@
 <Name>Scene</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x28500A48</Val>
+<Val>0xABE00160</Val>
 </Refnum>
 <Object>
 <Name>NISAST Event</Name>
@@ -147,7 +147,7 @@
 </Array>
 <U16>
 <Name>Material</Name>
-<Val>8</Val>
+<Val>4</Val>
 </U16>
 <Cluster>
 <Name>Color</Name>
@@ -171,11 +171,11 @@
 </Cluster>
 <Path>
 <Name>Model File (.ive)</Name>
-<Val>SimulationRSC\ive\robot scene.ive</Val>
+<Val>SimulationRSC\ive\Robot Scene.ive</Val>
 </Path>
 <Path>
 <Name>Model File (.stl)</Name>
-<Val>SimulationRSC\stl\robot scene.stl</Val>
+<Val>SimulationRSC\stl\Robot Scene.stl</Val>
 </Path>
 <Path>
 <Name>Texture File (.png)</Name>
@@ -201,7 +201,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x28600905</Val>
+<Val>0xABF00161</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -539,7 +539,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x2A200D09</Val>
+<Val>0xAD90016E</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -650,7 +650,7 @@
 </SGL>
 <SGL>
 <Name>Resolution</Name>
-<Val>1.00000E-2</Val>
+<Val>1.00000E-4</Val>
 </SGL>
 <EW>
 <Name>Attached to Servo</Name>
@@ -876,7 +876,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x295004FD</Val>
+<Val>0xACC00167</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -1145,7 +1145,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x2AF004EF</Val>
+<Val>0xAE400174</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -1417,7 +1417,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x2BC00536</Val>
+<Val>0xAEF0017A</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -1684,7 +1684,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x2C80056A</Val>
+<Val>0xAF90017F</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -1951,7 +1951,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x2D200903</Val>
+<Val>0xB0300184</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -2218,7 +2218,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x2DC00D16</Val>
+<Val>0xB0D00189</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -2485,7 +2485,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x2E6004F4</Val>
+<Val>0xB180018E</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -2752,7 +2752,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x2F000531</Val>
+<Val>0xB2200193</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3019,7 +3019,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x2FA00559</Val>
+<Val>0xB2C00198</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3286,7 +3286,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x304004F9</Val>
+<Val>0xB360019D</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3553,7 +3553,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x30E00D1D</Val>
+<Val>0xB40001A2</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -3820,7 +3820,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x31900CE9</Val>
+<Val>0xB4A001A7</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -4087,7 +4087,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x32300913</Val>
+<Val>0xB54001AC</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -4354,7 +4354,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x32D0055C</Val>
+<Val>0xB5E001B1</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -4621,7 +4621,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x337004D4</Val>
+<Val>0xB68001B6</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -4888,7 +4888,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x34100D1C</Val>
+<Val>0xB72001BB</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -5155,7 +5155,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x34B00D0F</Val>
+<Val>0xB7C001C0</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -5422,7 +5422,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x35500D04</Val>
+<Val>0xB86001C5</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -5689,7 +5689,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x35F00CF5</Val>
+<Val>0xB90001CA</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -5956,7 +5956,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x36900A2C</Val>
+<Val>0xB9A001CF</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -6223,7 +6223,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x373008FF</Val>
+<Val>0xBA4001D4</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -6490,7 +6490,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x37D00BBD</Val>
+<Val>0xBAE001D9</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -6795,7 +6795,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x38800D46</Val>
+<Val>0xBB9001DF</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -7067,7 +7067,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x39200914</Val>
+<Val>0xBC3001E4</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -7334,7 +7334,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x39C00533</Val>
+<Val>0xBCD001E9</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -7601,7 +7601,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x3A600546</Val>
+<Val>0xBD7001EE</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -7868,7 +7868,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x3B000552</Val>
+<Val>0xBE1001F3</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -8135,7 +8135,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x3BA00560</Val>
+<Val>0xBEB001F8</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -8402,7 +8402,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x3C40090A</Val>
+<Val>0xBF5001FD</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -8669,7 +8669,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x3CE00575</Val>
+<Val>0xBFF00202</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -8936,7 +8936,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x3D8004CF</Val>
+<Val>0xC0900207</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -9203,7 +9203,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x3E200CFE</Val>
+<Val>0xC130020C</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -9470,7 +9470,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x3EC00BBF</Val>
+<Val>0xC1D00211</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -9737,7 +9737,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x3F600BC6</Val>
+<Val>0xC2700216</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -10004,7 +10004,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x40000D38</Val>
+<Val>0xC310021B</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -10271,7 +10271,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x40A00574</Val>
+<Val>0xC3B00220</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -10538,7 +10538,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x414004DA</Val>
+<Val>0xC4500225</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -10805,7 +10805,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x41E008FD</Val>
+<Val>0xC4F0022A</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -11072,7 +11072,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x42800567</Val>
+<Val>0xC590022F</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -11339,7 +11339,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x43200528</Val>
+<Val>0xC6300234</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -11606,7 +11606,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x43C00D19</Val>
+<Val>0xC6D00239</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -11873,7 +11873,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x44600CE4</Val>
+<Val>0xC770023E</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -12140,7 +12140,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4500052D</Val>
+<Val>0xC8100243</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -12445,7 +12445,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x45B00557</Val>
+<Val>0xC8C00249</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -12717,7 +12717,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x465008B1</Val>
+<Val>0xC960024E</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -12984,7 +12984,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x46F0040F</Val>
+<Val>0xCA000253</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -13251,7 +13251,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x479008B9</Val>
+<Val>0xCAA00258</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -13518,7 +13518,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x48300CDF</Val>
+<Val>0xCB40025D</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -13785,7 +13785,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x48D0051B</Val>
+<Val>0xCBE00262</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -14052,7 +14052,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4970055E</Val>
+<Val>0xCC800267</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -14319,7 +14319,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4A100D05</Val>
+<Val>0xCD20026C</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -14586,7 +14586,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4AB00C7F</Val>
+<Val>0xCDC00271</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -14853,7 +14853,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4B500549</Val>
+<Val>0xCE600276</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -15120,7 +15120,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4BF00539</Val>
+<Val>0xCF00027B</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -15387,7 +15387,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4C900D0C</Val>
+<Val>0xCFA00280</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -15654,7 +15654,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4D3004D3</Val>
+<Val>0xD0400285</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -15921,7 +15921,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4DD00901</Val>
+<Val>0xD0E0028A</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -16188,7 +16188,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4E700D4C</Val>
+<Val>0xD180028F</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -16455,7 +16455,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4F100D37</Val>
+<Val>0xD2200294</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -16722,7 +16722,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x4FB00A2F</Val>
+<Val>0xD2C00299</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -16989,7 +16989,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x50500BBC</Val>
+<Val>0xD360029E</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -17256,7 +17256,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x50F00538</Val>
+<Val>0xD40002A3</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -17523,7 +17523,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x51900BD0</Val>
+<Val>0xD4A002A8</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -17790,7 +17790,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x52300518</Val>
+<Val>0xD54002AD</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -18093,7 +18093,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x52E00556</Val>
+<Val>0xD5F002B3</Val>
 </Refnum>
 <Refnum>
 <Name>ODE Body</Name>
@@ -18461,7 +18461,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x54100CF4</Val>
+<Val>0xD72002BB</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -18565,7 +18565,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x54700D0A</Val>
+<Val>0xD78002BD</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -18669,7 +18669,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x551008B6</Val>
+<Val>0xD82002BE</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -18773,7 +18773,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x55900BB9</Val>
+<Val>0xD8A002BF</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -18878,7 +18878,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x55F0056D</Val>
+<Val>0xD90002BC</Val>
 </Refnum>
 <Refnum>
 <Name>LVODE Refnum</Name>
@@ -18893,7 +18893,7 @@
 <Name>3D Object</Name>
 <RefKind>LV Object</RefKind>
 <RefType>Scene</RefType>
-<Val>0x294004F6</Val>
+<Val>0xACB00166</Val>
 </Refnum>
 <Refnum>
 <Name>Body</Name>
@@ -18924,11 +18924,11 @@
 <NumElts>3</NumElts>
 <DBL>
 <Name>Longitude (deg)</Name>
-<Val>37.80000000000000</Val>
+<Val>37.79999900000000</Val>
 </DBL>
 <DBL>
 <Name>Latitude (deg)</Name>
-<Val>-122.31000000000000</Val>
+<Val>-122.30999799999999</Val>
 </DBL>
 <DBL>
 <Name>Altitude (m)</Name>
